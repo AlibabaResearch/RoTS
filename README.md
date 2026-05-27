@@ -1,4 +1,4 @@
-# RoTS: Robustness-driven Trajectory Synthesis
+# Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents
 
 **[ICML 2026]** Official code for the paper:  
 **"Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents"**
