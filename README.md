@@ -16,7 +16,7 @@ GUI agents frequently fail to recover from their own policy-induced errors, limi
 - **RoTS** — a scalable, tree-based online trajectory synthesis framework that produces 800k high-quality training samples covering diverse policy-induced error modes and long-horizon recovery strategies.
 - **RoTS-7B / RoTS-32B** — models fine-tuned on the RoTS dataset, achieving state-of-the-art performance among open-weight models on OSWorld.
 
-For full details and results, please refer to the [paper](paper/rots_paper.pdf).
+<!-- For full details and results, please refer to the [paper](paper/rots_paper.pdf). -->
 
 ---
 
