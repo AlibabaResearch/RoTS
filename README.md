@@ -1,6 +1,6 @@
 # Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents
 
-**[ICML 2026]** Official code for the paper:  
+**[ICML 2026 Spotlight]** Official code for the paper:  
 **"Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents"**
 
 > Tianpeng Bu\*, Xin Liu\*, Qihua Chen\*, Hao Jiang, Shurui Li, Hongtao Duan, Lu Jiang, Lulu Hu, Bin Yang, Minying Zhang (\* equal contribution)  
